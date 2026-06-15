@@ -83,8 +83,12 @@ Aplicação de SHAP para compreensão da influência das variáveis nas previsõ
 Detecção de fraudes bancárias/
 │
 ├── docs em py/
+      └── Desafio em python com comentários
+      └── Desafio em python sem comentários
 ├── images/
 ├── notebooks/
+     └── Notebook (colab) com comentários
+     └── Notebook (colab) sem comentários
 ├── .gitignore 
 ├── README.md
 └── requirements.txt
