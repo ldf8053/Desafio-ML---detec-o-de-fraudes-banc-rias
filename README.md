@@ -66,17 +66,26 @@ Foram avaliados os seguintes modelos:
 Métricas utilizadas:
 
 - Precision
-- Recall
+- Recall (mais importante neste caso para detectar fraudes reais)
+- Relacão entre as duas variáveis para análise mais completa
 
 ![Relação Precision Recall](images/precision_recall.png)
 
 - F1-Score
-- ROC-AUC
+- Curva ROC e ára abaixo da curva AUC
 - Matriz de Confusão
 
 ### 5. Interpretabilidade
 
-Aplicação de SHAP para compreensão da influência das variáveis nas previsões.
+### 5.1 Importância das variáveis
+
+Ajuda a diferenciar entre todas as variáveis, quais são as mais importantes para a tomada de decisão do modelo.
+
+![Importância das variáveis](images/importancia_das_variaveis.png)
+
+### 5.2 Explicabilidade
+
+Aplicação da técnica SHAP para compreensão da influência das variáveis nas previsões. Visualização em maiores espessuras e cores mais intensas das variáveis V4 e V14 como as mais importantes influências no modelo.
 
 ![Visualização da V4 e V14 como as mais importantes influências no modelo de detecção de fraude](images/SHAP_plot_violin.png)
 
