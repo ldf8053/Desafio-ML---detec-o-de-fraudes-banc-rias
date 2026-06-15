@@ -67,6 +67,9 @@ Métricas utilizadas:
 
 - Precision
 - Recall
+
+![Relação Precision Recall](images/precision recall.png)
+
 - F1-Score
 - ROC-AUC
 - Matriz de Confusão
