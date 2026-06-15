@@ -67,7 +67,7 @@ Métricas utilizadas:
 
 - Precision
 - Recall (mais importante neste caso para detectar fraudes reais)
-- Relacão entre as duas variáveis para análise mais completa
+- Relação entre as duas variáveis para análise mais completa:
 
 ![Relação Precision Recall](images/precision_recall.png)
 
