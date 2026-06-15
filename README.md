@@ -78,6 +78,8 @@ Métricas utilizadas:
 
 Aplicação de SHAP para compreensão da influência das variáveis nas previsões.
 
+![Visualização da V4 e V14 como as mais importantes influências no modelo de detecção de fraude](images/SHAP_plot_violin.png)
+
 ---
 
 ## Estrutura do Projeto
