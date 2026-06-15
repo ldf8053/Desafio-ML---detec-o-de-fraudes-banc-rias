@@ -84,9 +84,7 @@ fraud-detection-bank-transactions/
 │
 ├── notebooks/
 ├── src/
-├── images/
 ├── docs/
-├── requirements.txt
 └── README.md
 ```
 
